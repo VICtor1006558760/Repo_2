@@ -15,12 +15,16 @@ Breve Descripción
 - funcionalidad 1
 - funcionalidad 2
 - funcionalidad 3
+- Funcionalidad 4
+- Funcionlidad 5
 
 ---
 
 ## Tecnologias
 - Lenguaje/ Framework principal
+- GO
 - base de datos
+- SQL
 - librerias claves
 
 ---
