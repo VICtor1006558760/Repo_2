@@ -63,3 +63,6 @@ cd proyecto
 
 ## video imagen 
 [!click para ver video](https://pngimg.com/image/30377)
+
+## video tutorial
+[![click para ver video](Asset/Imagen.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3Q8DkRIcEG9lmpbBIRlzVZ86d5bOjLOmZw&s)
