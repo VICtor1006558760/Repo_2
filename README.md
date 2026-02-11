@@ -64,3 +64,9 @@ cd proyecto
 ## video tutorial
 [![click para ver video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3Q8DkRIcEG9lmpbBIRlzVZ86d5bOjLOmZw&s)](https://www.youtube.com/watch?v=44ziZ12rJwU)
 
+
+----
+## Demo
+
+si quiere ver el programa dar click
+[open in stackblitz](https://stackblitz.com/edit/secret-python-gw4sbwno?file=main.py&title=Python%20Starter)
