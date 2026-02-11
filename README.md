@@ -1,6 +1,6 @@
 # Proyecto de uso de herramientas GIT con contribuyentes
 
-Linea para generar conflicto Rama victor
+Linea nueva con conflicto
 
 ---
 
