@@ -34,6 +34,12 @@ Breve Descripción
 - dependencias necesarias
 - software requerido
 
+## Herramientas
+- Internet
+- Computador
+- Visual Studio
+- Cuenta github
+
 ---
 ## Instalación
 
