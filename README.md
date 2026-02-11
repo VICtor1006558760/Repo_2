@@ -60,3 +60,6 @@ cd proyecto
 
 ## video tutorial
 [![click para ver video](Asset/Imagen.png)](https://www.youtube.com/watch?v=44ziZ12rJwU)
+
+## video imagen 
+[!click para ver video](https://pngimg.com/image/30377)
