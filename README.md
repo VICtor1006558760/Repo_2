@@ -4,6 +4,7 @@ Breve Descripción
 victor
 Linea para generar conflicto Rama mariño
 
+
 ---
 
 ## tabla de contenido
@@ -45,8 +46,17 @@ Linea para generar conflicto Rama mariño
 ---
 ## Instalación
 
+---
+
+
 Pasos para instalar el proyecto localmente
 
 ````bash
 git clone https://github.com/VICtor1006558760/Repo_2
 cd proyecto
+
+````
+---
+
+## video tutorial
+[![click para ver video](Asset/Imagen.png)](https://www.youtube.com/watch?v=44ziZ12rJwU)
